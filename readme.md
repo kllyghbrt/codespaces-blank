@@ -2,7 +2,7 @@
 ![](./images/cinnamorollcute!.jpg)
 
 ## Data Pribadi
-- **Nama :** Kelly Go Hubert
+- **Nama :** K
 - **Alamat :** Jl. Selam 3
 - **Telepon :** 0812-6064-2366
 - **Email :** gohubertkelly@gmail.com
@@ -19,3 +19,6 @@
 - **Database :** MySQL, MongoDB, SQLite
 - **Tools :** Git, Figma, VS Code
 ---
+## Sertifikasi
+- Dicoding - Belajar Frontend Web Developer [2022]
+
